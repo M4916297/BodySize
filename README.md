@@ -15,22 +15,3 @@ From revision: 1ad2c04e0e
 μVision V5.40.0.0
 Copyright (C) 2024 ARM Ltd and ARM Germany GmbH. All rights reserved.
 
-License Information:
-1 18747984533@163.com
-1
-LIC=----
-
-Tool Version Numbers:
-Toolchain:        MDK-Lite  Version: 5.40.0.3
-Toolchain Path:    D:\Users\18747\AppData\Local\Keil_v5\ARM\ARMCLANG\bin\
-C Compiler:         ArmClang.exe        V6.22
-Assembler:          Armasm.exe        V6.22
-Linker/Locator:     ArmLink.exe        V6.22
-Library Manager:    ArmAr.exe        V6.22
-Hex Converter:      FromElf.exe        V6.22
-CPU DLL:               SARMCM3.DLL          V5.40.0.3
-Dialog DLL:         TARMSTM.DLL          V1.67.1.0
-Target DLL:             UL2CM3.DLL           V1.164.11.0
-Dialog DLL:         TARMSTM.DLL          V1.67.1.0
-
-
