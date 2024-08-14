@@ -4,3 +4,4 @@
 
 
 ## 注意：高版本Qt需要把mysql_driver中的两个文件复制到Qt的编译器中
+参考博客：https://blog.csdn.net/kangzhaofang/article/details/138533796
