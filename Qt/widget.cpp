@@ -1,12 +1,14 @@
 #include "widget.h"
 #include "ui_widget.h"
 
+
 Widget::Widget(QWidget *parent)
     : QWidget(parent)
     , ui(new Ui::Widget)
 {
     ui->setupUi(this);
     Init();
+
 }
 
 Widget::~Widget()
@@ -29,6 +31,9 @@ void Widget::Init()
     settingsUi=new Settings(this);
     ui->stackedWidget->addWidget(settingsUi);
 
+
+    //MYSqlInit
+    sqlInit->MySqlInit();
 }
 
 

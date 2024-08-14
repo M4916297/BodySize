@@ -1,6 +1,8 @@
 #ifndef WIDGET_H
 #define WIDGET_H
 
+#include "sql.h"
+
 #include <QWidget>
 #include <QList>
 #include <settings.h>
@@ -35,6 +37,8 @@ private:
 
     //登录ui界面
     Login *loginui;
+
+    Sql *sqlInit;
 
     //ui界面内容初始化
     void Init();
